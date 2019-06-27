@@ -50,6 +50,7 @@ export default {
   ** See https://axios.nuxtjs.org/options
   */
   axios: {
+    baseURL: 'https://imoveis-app.herokuapp.com/api'
   },
   /*
   ** vuetify module configuration
